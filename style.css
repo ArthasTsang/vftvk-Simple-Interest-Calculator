@@ -15,11 +15,15 @@ h1{
 	width: 500px;
 	padding: 20px;	
 	border-radius: 25px;
-	align: center;
+	text-align: center;
 }
 
 .maintbl {
-	
+	text-align: left;
+}
+
+.result {
+	text-align: left;
 }
 
 
